@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
-- 😄 Pronouns: If it comes let it If it goes let it..
 - ⚡ Fun fact: 
 
 <!---
