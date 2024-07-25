@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ Tamil Selvan
-- 👀 I’m interested in Mobile Application develper
+- 👀 I’m interested in Mobile Application developer
 - 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
